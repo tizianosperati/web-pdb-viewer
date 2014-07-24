@@ -1,15 +1,15 @@
 //atomic Van Der Wals's radius in Angstrom
 
 radii = {
-    'H': 1.20,
-    'N': 1.55,
-    'C': 1.70,
-    'O': 1.52,
-    'S': 1.80,
-    'Cl': 1.75,
-    'F': 1.47,
-    'K': 2.75,
-    'P': 1.80
+    'H': 120,
+    'N': 155,
+    'C': 170,
+    'O': 152,
+    'S': 180,
+    'Cl': 175,
+    'F': 147,
+    'K': 275,
+    'P': 180
 };
 
 // set dimension to atom by his type
